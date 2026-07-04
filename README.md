@@ -74,3 +74,5 @@ https://www.linkedin.com/in/rabeea-anjum/
 ![GitHub Streak](https://streak-stats.demolab.com?user=RabeeaAnjum&theme=tokyonight)
 
 
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
